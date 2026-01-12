@@ -25,5 +25,15 @@ A Java-based Hospital Management System built using **Java Swing** and **MySQL**
 
 ---
 
-## 📂 Project Structure
+## 🖼️ Project Screenshots
+
+### Login Page
+![Login](Screenshot%20(152).png)
+
+### Reception Dashboard
+![Dashboard](Screenshot%20(154).png)
+
+### Patient Information Page
+![Patient Info](Screenshot%20(156).png)
+
 
