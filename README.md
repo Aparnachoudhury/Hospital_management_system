@@ -21,7 +21,7 @@ A Java-based Hospital Management System built using **Java Swing** and **MySQL**
 - Java (Swing GUI)
 - MySQL Database
 - JDBC Connectivity
-- IntelliJ IDE
+- IntelliJ IDEA
 
 ---
 
